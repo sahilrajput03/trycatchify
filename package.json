@@ -1,0 +1,14 @@
+{
+  "name": "trycatchify",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prepub": "c Pre version commit.",
+    "pub": "yarn version --patch && yarn publish",
+    "postpub": "p"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

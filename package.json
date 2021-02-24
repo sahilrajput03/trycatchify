@@ -10,5 +10,10 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "homepage": "https://github.com/sahilrajput03/trycatchify",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sahilrajput03/trycatchify"
+  }
 }
